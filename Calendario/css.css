@@ -1,0 +1,40 @@
+
+table thead{/* cabeçalho */
+
+border: solid #ccc 1px;
+text-align: center;
+
+}
+
+table{/* tabela */
+
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+table tr th p{/* mes e ano */
+
+    display: inline;
+    padding: 50px;
+
+}
+
+a .fa-angle-double-left{
+    
+   display: inline;
+  
+}
+
+a   .fa-angle-double-right{
+   display: inline;
+
+}
+
+
+table tr td{
+
+    border: solid #ccc 1px;
+    padding: 20px;
+    
+    }
